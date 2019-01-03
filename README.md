@@ -3,7 +3,7 @@
 这是一个由Youtuber Siraj Raval发起的机器学习挑战活动，旨在号召大家每天至少花1个小时的时间在Machine Learning的学习上，内容涵盖了机器学习，深度学习等很多方面。
 
 Github 英文原版 ：
-https://github.com/Avik-Jain/100-Days-Of-ML-Code
+https://github.com/Avik-Jain/100-Days-Of-ML-Code  
 Github 中文翻译版：
 https://github.com/MLEveryday/100-Days-Of-ML-Code
 
