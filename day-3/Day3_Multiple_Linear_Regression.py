@@ -37,7 +37,9 @@ y_pred = regressor.predict(X_test)
 print("y_pred")
 print(y_pred)
 
+
 plt.plot(X_train, regressor.predict(X_train), color = 'blue')
 plt.show()
+
 plt.plot(X_test, regressor.predict(X_test), color = 'blue')
 plt.show()
