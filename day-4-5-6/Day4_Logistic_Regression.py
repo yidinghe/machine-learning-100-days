@@ -30,7 +30,10 @@ y_pred = classifier.predict(X_test)
 # Step4 Evaluate the Predection
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(Y_test, y_pred)
+print('cm')
+print(cm)
 
+# Step5 Visulization
 from matplotlib.colors import ListedColormap
 X_set,Y_set=X_train,Y_train
 X1,X2=np. meshgrid(np. arange(start=X_set[:,0].min()-1, stop=X_set[:, 0].max()+1, step=0.01),
